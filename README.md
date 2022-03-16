@@ -62,3 +62,8 @@ Darktor v1.0.1 usage:
 `  -u      --update       Checks for updates`
 
 `By D4rk4rmy`
+
+### <h2 align="center">😈 Visit 😈 </h2>
+<p align="center">
+<a href="https://darkarmy.live/"><img title="D4RK4RMY" src="https://img.shields.io/badge/D4RK4RMY-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
+</p>
