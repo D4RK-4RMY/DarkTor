@@ -34,7 +34,7 @@ DarkTor is an anonymization script which redirects all internet traffic through 
 
  <p align="center">
 
-  <img src="https://github.com/D4RK-4RMY/DarkTor/blob/main/ss.png" alt="ss"/>
+  <img src="https://github.com/D4RK-4RMY/DarkTor/blob/main/darktor.png" alt="ss"/>
 
 </p>
   
