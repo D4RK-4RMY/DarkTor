@@ -30,6 +30,14 @@
 ## What is DarkTor ?
 DarkTor is an anonymization script which redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 
+ 
+
+ <p align="center">
+
+  <img src="https://github.com/D4RK-4RMY/DarkTor/blob/main/ss.png" alt="ss"/>
+
+</p>
+  
 # Build and install from source
 `git clone https://github.com/D4RK-4RMY/DarkTor.git`
 
