@@ -26,4 +26,4 @@ Darktor v1.0.1 usage:
 
 `  -u      --update       Checks for updates`
 
-`D4rk4rmy`
+`By D4rk4rmy`
