@@ -61,6 +61,8 @@ Darktor v1.0.1 usage:
 
 `  -u      --update       Checks for updates`
 
+
+
 `By D4rk4rmy`
 
 ### <h2 align="center">😈 Visit 😈 </h2>
