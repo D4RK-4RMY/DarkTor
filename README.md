@@ -22,8 +22,8 @@
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/D4RK-4RMY/DarkTor?label=Watchers&color=blue&style=flat-square"></a>
  
 ###### <p align="center">*This is official repository maintained by Us.*
-###### <p align="center"> [**DarkTor**](https://github.com/D4RK-4RMY/DarkTor) ❤️ By [**DARKARMY**](https://darkarmy.live/)
-###### <p align="center"> *You can check our [WebSite](https://darkarmy.live/)✌*
+###### <p align="center"> [**DarkTor**](https://github.com/D4RK-4RMY/DarkTor) ❤️ By [**DARKARMY**](https://dark4rmy.in/)
+###### <p align="center"> *You can check our [WebSite](https://dark4rmy.in/)✌*
 
 ###### <p align="center">DarkTor is an anonymization script which redirects all internet traffic through SOCKS5 tor proxy<p align="center">
 
@@ -67,5 +67,5 @@ Darktor v1.0.1 usage:
 
 ### <h2 align="center">😈 Visit 😈 </h2>
 <p align="center">
-<a href="https://darkarmy.live/"><img title="D4RK4RMY" src="https://img.shields.io/badge/D4RK4RMY-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
+<a href="https://dark4rmy.in/"><img title="D4RK4RMY" src="https://img.shields.io/badge/D4RK4RMY-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
