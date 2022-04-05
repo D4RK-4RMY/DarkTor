@@ -54,7 +54,7 @@ def logo():
 	██. ██ ▐█ ▪▐▌▐█•█▌▐█.█▌ ▐█▌·▐█▌.▐▌▐█•█▌
 	▀▀▀▀▀•  ▀  ▀ .▀  ▀·▀  ▀ ▀▀▀  ▀█▄▀▪.▀  ▀
 	                  
-      {V} - By DARKARMY  || https://darkarmy.live
+      {V} - By DARKARMY  || https://dark4rmy.in
 
     """.format(V=VERSION))
     print(bcolors.ENDC)
