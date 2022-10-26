@@ -8,7 +8,7 @@
   </p>
   
   <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/781/298/png-clipart-samsung-galaxy-y-tor-onion-orbot-android-onion-leaf-logo.png" alt=" Logo" />
+  <img src="https://w7.pngwing.com/pngs/173/966/png-transparent-purple-onion-tor-browser-web-browser-onion-onion-routing-onion-food-leaf-plant-stem.png" alt=" Logo" />
 </p>
 
   <br>
