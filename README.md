@@ -8,7 +8,7 @@
   </p>
   
   <p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/logo.png" alt=" Logo" />
+  <img src="https://e7.pngegg.com/pngimages/781/298/png-clipart-samsung-galaxy-y-tor-onion-orbot-android-onion-leaf-logo.png" alt=" Logo" />
 </p>
 
   <br>
